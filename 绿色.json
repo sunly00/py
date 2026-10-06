@@ -1,59 +1,59 @@
 {
-  "sites": [
-    {
-      "key": "duboku",
-      "name": "独播库",
-      "type": 3,
-      "api": "./spider/独播库.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {}
-    },
-    {
-      "key": "kxyy",
-      "name": "开心影院",
-      "type": 3,
-      "api": "./spider/开心影院.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {}
-    },
-    {
-      "key": "juzi",
-      "name": "橘汁视频",
-      "type": 3,
-      "api": "./spider/橘汁视频.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {}
-    },
-    {
-      "key": "fengye4k",
-      "name": "枫叶4K",
-      "type": 3,
-      "api": "./spider/枫叶4KTG群：@tvshare23.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {}
-    },
-    {
-      "key": "lieshou",
-      "name": "猎手",
-      "type": 3,
-      "api": "./spider/猎手.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {}
-    }
-  ],
-  "lives": [],
-  "parses": [],
-  "flags": [],
-  "wallpaper": "",
-  "spider": ""
+"sites": [
+{
+"key": "duboku",
+"name": "独播库",
+"type": 3,
+"api": "https://raw.githubusercontent.com/sunly00/py/main/spider/%E7%8B%AC%E6%92%AD%E5%BA%93.py",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": {}
+},
+{
+"key": "kxyy",
+"name": "开心影院",
+"type": 3,
+"api": "https://raw.githubusercontent.com/sunly00/py/main/spider/%E5%BC%80%E5%BF%83%E5%BD%B1%E9%99%A2.py",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": {}
+},
+{
+"key": "juzi",
+"name": "橘汁视频",
+"type": 3,
+"api": "https://raw.githubusercontent.com/sunly00/py/main/spider/%E6%A9%98%E6%B1%81%E8%A7%86%E9%A2%91.py",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": {}
+},
+{
+"key": "fengye4k",
+"name": "枫叶4K",
+"type": 3,
+"api": "https://raw.githubusercontent.com/sunly00/py/main/spider/%E6%9E%AB%E5%8F%B64KTG%E7%BE%A4%EF%BC%9A%40tvshare23.py",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": {}
+},
+{
+"key": "lieshou",
+"name": "猎手",
+"type": 3,
+"api": "https://raw.githubusercontent.com/sunly00/py/main/spider/%E7%8C%8E%E6%89%8B.py",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"ext": {}
+}
+],
+"lives": [],
+"parses": [],
+"flags": [],
+"wallpaper": "",
+"spider": ""
 }
